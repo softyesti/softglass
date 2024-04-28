@@ -1,9 +1,13 @@
 # Changelog
 
-## 0.2.0 (2024-04-28)
+## 0.3.0
+
+- Add orange theme
+
+## 0.2.0
 
 - Add pink theme
 
-## 0.1.0 (2024-04-27)
+## 0.1.0
 
 - Add cyan theme

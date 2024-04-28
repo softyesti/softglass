@@ -1,0 +1,7 @@
+id = "softglass"
+name = "SoftGlass Themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["João Sereia (SoftYes TI) <joao.sereia@softyes.com.br>"]
+description = "Glass themes with color options."
+repository = "https://github.com/softyesti/softglass"

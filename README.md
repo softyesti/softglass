@@ -1,3 +1,5 @@
+:construction: Under development :construction:
+
 # SoftGlass Themes
 
 Glass themes with color oprions for [Zed Code Editor](https://zed.dev/).
@@ -24,13 +26,13 @@ Glass themes with color oprions for [Zed Code Editor](https://zed.dev/).
 - Manual: Copy the file ./themes/softglass.json to the directory: ~/.config/zed/themes
 
   ```bash
-    yes | cp -rf ./themes/softglass.json ~/.config/zed/themes/softglass.json
+  yes | cp -rf ./themes/softglass.json ~/.config/zed/themes/softglass.json
   ```
 
 - Auto: In the root of the project, using the GNU/Make utility run the following command:
 
   ```bash
-    make install
+  make install
   ```
 
 ## Contacts

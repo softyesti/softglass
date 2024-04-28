@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.0
+
+- Add green theme
+
 ## 0.4.0
 
 - Add purple theme

@@ -8,10 +8,13 @@ Glass themes with color oprions for [Zed Code Editor](https://zed.dev/).
   ![cyan theme image](./assets/cyan.png)
 
 - Pink theme
-  ![cyan theme image](./assets/pink.png)
+  ![pink theme image](./assets/pink.png)
 
 - Orange theme
-  ![cyan theme image](./assets/orange.png)
+  ![orange theme image](./assets/orange.png)
+
+- Purple theme
+  ![purple theme image](./assets/purple.png)
 
 ## Contacts
 
